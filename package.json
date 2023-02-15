@@ -1,0 +1,19 @@
+{
+  "name": "poc-koajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.1"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.3"
+  }
+}
